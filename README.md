@@ -1,47 +1,4 @@
-# Ford-GT-model-Solidworks
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Ford GT (2019) – SolidWorks Model</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            font-size: 16px;
-            line-height: 1.6;
-            max-width: 900px;
-            margin: 30px auto;
-            color: #222;
-        }
-        h1, h2 {
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            color: #111;
-        }
-        h1 {
-            font-size: 28px;
-            margin-bottom: 10px;
-        }
-        h2 {
-            font-size: 22px;
-            margin-top: 25px;
-            margin-bottom: 10px;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        .note {
-            font-size: 14px;
-            color: #555;
-        }
-        .highlight {
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
+
 
 <h1>Ford GT (2019) – 3D Vehicle Modeling Using SolidWorks</h1>
 
